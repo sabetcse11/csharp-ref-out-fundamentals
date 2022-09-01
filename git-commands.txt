@@ -1,0 +1,14 @@
+
+--when add file or folder
+$ git add .
+
+--for status checking
+$ git status --short
+
+--commit changed items
+$ git commit -a -m "Your_comment"
+
+--push to repository
+$ git push
+
+
